@@ -6,6 +6,7 @@ public class TestCase1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("added by tester");
+		System.out.println("second syso statement");
 
 	}
 
